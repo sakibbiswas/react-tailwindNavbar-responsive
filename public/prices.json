@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 10.99,
+    "description": "Includes basic features",
+    "features": ["feature 1", "feature 2", "feature 3"],
+    "duration": "1 month",
+    "support": "Email support"
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 20.99,
+    "description": "Includes standard features",
+    "features": ["feature 1", "feature 2", "feature 3", "feature 4"],
+    "duration": "3 months",
+    "support": "Email and phone support"
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 30.99,
+    "description": "Includes premium features",
+    "features": ["feature 1", "feature 2", "feature 3", "feature 4", "feature 5"],
+    "duration": "6 months",
+    "support": "Email, phone, and chat support"
+  }
+]
